@@ -1,0 +1,13 @@
+variable = a b c d this is given by user
+constant = 1 2 3 or which is fixed and cannot be changed
+
+Rules os variable
+
+variable are case sensitive that is a is not equal to A
+
+
+data types 
+int --for number
+char---for alphabets
+float/Doubble--for decimal numbers
+bool-- for 0 and 1 that is true and false
